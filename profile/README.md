@@ -15,6 +15,8 @@
 
 <br/>
 
+[![](https://img.shields.io/badge/active-22d3ee?style=flat-square&labelColor=0a0f1e&logo=circle&logoColor=22d3ee)](https://github.com/Naynex-io) [![](https://img.shields.io/badge/since-2026-1e293b?style=flat-square&labelColor=0a0f1e)](https://github.com/Naynex-io) [![](https://img.shields.io/badge/location-Peru-1e293b?style=flat-square&labelColor=0a0f1e)](https://github.com/Naynex-io) [![Focus](https://img.shields.io/badge/focus-fullstack%20%7C%20infra%20%7C%20AI-3b82f6?style=flat-square&labelColor=0a0f1e)](https://github.com/naynex) [![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=0a0f1e)](https://github.com/Naynex-io-io) [![](https://img.shields.io/badge/Java-3b82f6?style=flat-square&logo=openjdk&logoColor=white&labelColor=0a0f1e)](https://github.com/Naynex-io) [![](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=22d3ee&labelColor=0a0f1e)](https://github.com/Naynex-io) [![](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3b82f6&labelColor=0a0f1e)](https://github.com/Naynex-io) [![](https://img.shields.io/badge/Kotlin-1e293b?style=flat-square&logo=kotlin&logoColor=93c5fd&labelColor=0a0f1e)](https://github.com/Naynex-io)
+
 </div>
 
 ---
@@ -30,16 +32,3 @@
 ```
   concurrent by design  ·  event-driven  ·  async by nature  ·  AI as infrastructure
 ```
-
----
-
-<div align="center">
-
-[![](https://img.shields.io/badge/status-active-22d3ee?style=flat-square)](https://github.com/naynex)
-[![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2Fnaynex&query=%24.created_at&label=since&style=flat-square&color=1e293b&labelColor=0a0f1e)](https://github.com/naynex)
-[![](https://img.shields.io/badge/location-Peru-3b82f6?style=flat-square)](https://github.com/naynex)
-
-
-<sub>all systems running.</sub>
-
-</div>
